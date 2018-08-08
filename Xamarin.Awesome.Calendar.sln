@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin.Awesome.Calendar", "Xamarin.Awesome.Calendar\Xamarin.Awesome.Calendar.csproj", "{BE2EF601-1FFF-41C8-AD60-B88299654AC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin.Awesome.Calendar.Demo", "Xamarin.Awesome.Calendar.Demo\Xamarin.Awesome.Calendar.Demo.csproj", "{7E278E6F-7A84-4651-B4E6-6FB7E309C401}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE2EF601-1FFF-41C8-AD60-B88299654AC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE2EF601-1FFF-41C8-AD60-B88299654AC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE2EF601-1FFF-41C8-AD60-B88299654AC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE2EF601-1FFF-41C8-AD60-B88299654AC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E278E6F-7A84-4651-B4E6-6FB7E309C401}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E278E6F-7A84-4651-B4E6-6FB7E309C401}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E278E6F-7A84-4651-B4E6-6FB7E309C401}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E278E6F-7A84-4651-B4E6-6FB7E309C401}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
