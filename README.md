@@ -34,8 +34,8 @@ Add [Xamarin.Awesome.Calendar](https://www.nuget.org/packages/Xamarin.Awesome.Ca
 Screenshots
 -----------
 
-<img width="30%" src="screenshots/device-2017-08-14-143753.png" />
-<img width="30%" src="screenshots/device-2017-08-14-143933.png" />
+<img width="30%" src="https://raw.githubusercontent.com/ArchitShah248/CalendarDateRangePicker/master/screenshots/device-2017-08-14-143753.png" />
+<img width="30%" src="https://raw.githubusercontent.com/ArchitShah248/CalendarDateRangePicker/master/screenshots/device-2017-08-14-143933.png" />
 
 
 Developer setup
