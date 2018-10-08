@@ -7,7 +7,6 @@
     <ProjectGuid>{BE2EF601-1FFF-41C8-AD60-B88299654AC5}</ProjectGuid>
     <ProjectTypeGuids>{10368E6C-D01B-4462-8E8B-01FC667A7035};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
-    <RootNamespace>Xamarin.Awesome.Calendar</RootNamespace>
     <AssemblyName>Xamarin.Awesome.Calendar</AssemblyName>
     <TargetFrameworkVersion>v9.0</TargetFrameworkVersion>
     <MonoAndroidResourcePrefix>Resources</MonoAndroidResourcePrefix>
@@ -106,7 +105,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <LibraryProjectZip Include="Jars\awesome-calendar-release-1.1.3.aar" />
+    <LibraryProjectZip Include="Jars\awesome-calendar-release-1.1.3.1.aar" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.Bindings.targets" />
   <Import Project="..\packages\NuGet.Build.Packaging.0.2.2\build\NuGet.Build.Packaging.targets" Condition="Exists('..\packages\NuGet.Build.Packaging.0.2.2\build\NuGet.Build.Packaging.targets')" />
