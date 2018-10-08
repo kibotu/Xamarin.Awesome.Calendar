@@ -14,7 +14,7 @@ An Android Library to pick dates range, that helps user to select range from fut
 
 Add [Xamarin.Awesome.Calendar](https://www.nuget.org/packages/Xamarin.Awesome.Calendar)
 
-        PM> Install-Package Xamarin.Awesome.Calendar -Version 1.1.1
+        PM> Install-Package Xamarin.Awesome.Calendar -Version 1.1.3.1
 
 ## How to build
 
